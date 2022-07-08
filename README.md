@@ -1,2 +1,2 @@
-# Fluffy-Bird
-Created a simple fluffy bird game with python
+# Flappy-Bird
+Created a simple flappy bird game with python
